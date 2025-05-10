@@ -704,6 +704,10 @@
             "libraryName": "chardet",
             "asOfVersion": "1.0.0"
         },
+        "chart.js": {
+            "libraryName": "chart.js",
+            "asOfVersion": "4.0.1"
+        },
         "chartist": {
             "libraryName": "chartist",
             "asOfVersion": "1.0.0"
@@ -4297,6 +4301,10 @@
             "libraryName": "mongoose",
             "asOfVersion": "5.11.0"
         },
+        "mongoose-aggregate-paginate-v2": {
+            "libraryName": "mongoose-aggregate-paginate-v2",
+            "asOfVersion": "1.1.2"
+        },
         "mongoose-autopopulate": {
             "libraryName": "mongoose-autopopulate",
             "asOfVersion": "0.16.0"
@@ -4652,6 +4660,10 @@
         "open-editor": {
             "libraryName": "open-editor",
             "asOfVersion": "2.0.0"
+        },
+        "openapi-factory": {
+            "libraryName": "openapi-factory",
+            "asOfVersion": "5.2.31"
         },
         "openid-client": {
             "libraryName": "openid-client",
@@ -5215,6 +5227,10 @@
             "libraryName": "printf",
             "asOfVersion": "0.3.0"
         },
+        "private-ip": {
+            "libraryName": "private-ip",
+            "asOfVersion": "2.3.3"
+        },
         "prosemirror-changeset": {
             "libraryName": "prosemirror-changeset",
             "asOfVersion": "2.2.0"
@@ -5714,6 +5730,10 @@
         "react-email-editor": {
             "libraryName": "react-email-editor",
             "asOfVersion": "1.7.0"
+        },
+        "react-embed-gist": {
+            "libraryName": "react-embed-gist",
+            "asOfVersion": "1.0.22"
         },
         "react-fade-in": {
             "libraryName": "react-fade-in",
@@ -6511,6 +6531,10 @@
             "libraryName": "@seatsio/seatsio-types",
             "asOfVersion": "2.0.0"
         },
+        "secure-json-parse": {
+            "libraryName": "secure-json-parse",
+            "asOfVersion": "2.4.0"
+        },
         "selfsigned": {
             "libraryName": "selfsigned",
             "asOfVersion": "2.1.0"
@@ -7167,6 +7191,10 @@
             "libraryName": "tesseract.js",
             "asOfVersion": "2.0.0"
         },
+        "testing-library__cypress": {
+            "libraryName": "@testing-library/cypress",
+            "asOfVersion": "7.0.0"
+        },
         "testing-library__dom": {
             "libraryName": "@testing-library/dom",
             "asOfVersion": "7.5.0"
@@ -7603,6 +7631,10 @@
             "libraryName": "webix",
             "asOfVersion": "5.1.1"
         },
+        "webmidi": {
+            "libraryName": "webmidi",
+            "asOfVersion": "3.0.1"
+        },
         "webpack-chain": {
             "libraryName": "webpack-chain",
             "asOfVersion": "5.2.0"
@@ -7963,6 +7995,10 @@
             "libraryName": "xmlbuilder",
             "asOfVersion": "11.0.1"
         },
+        "xmldoc": {
+            "libraryName": "xmldoc",
+            "asOfVersion": "2.0.0"
+        },
         "xregexp": {
             "libraryName": "xregexp",
             "asOfVersion": "4.4.0"
@@ -7985,6 +8021,10 @@
         },
         "y18n": {
             "libraryName": "y18n",
+            "asOfVersion": "5.0.0"
+        },
+        "yallist": {
+            "libraryName": "yallist",
             "asOfVersion": "5.0.0"
         },
         "yaml": {
